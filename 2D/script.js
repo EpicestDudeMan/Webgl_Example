@@ -26,7 +26,7 @@ let aVertexPosition;
 // Animation timing
 
 let previousTime = 0.0;
-let degreesPerSecond = 90.0;
+let degreesPerSecond = 6.0;
 
 window.addEventListener("load", startup, false);
 
